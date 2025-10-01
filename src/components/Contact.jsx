@@ -27,19 +27,19 @@ const Contact = () => {
     {
       icon: <FiMail size={24} />,
       title: 'Email',
-      content: 'contato@twolab.com.br',
-      link: 'mailto:contato@twolab.com.br',
+      content: 'twolabcontato@gmail.com',
+      link: 'mailto:twolabcontato@gmail.com',
     },
     {
       icon: <FiPhone size={24} />,
-      title: 'Telefone',
-      content: '+55 (11) 9999-9999',
-      link: 'tel:+5511999999999',
+      title: 'Telefone / WhatsApp',
+      content: '(85) 99630-2558',
+      link: 'https://wa.me/5585996302558',
     },
     {
       icon: <FiMapPin size={24} />,
-      title: 'Endereço',
-      content: 'São Paulo, SP - Brasil',
+      title: 'Localização',
+      content: 'Fortaleza e Iguatu - CE',
       link: '#',
     },
   ]

@@ -24,13 +24,13 @@ const About = () => {
               </span>
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Somos uma empresa especializada em desenvolvimento de software, automações e integrações de sistemas. 
-              Com uma equipe altamente qualificada, oferecemos soluções tecnológicas inovadoras que impulsionam 
-              o crescimento e a eficiência dos nossos clientes.
+              Somos uma startup cearense especializada em desenvolvimento de software, automações e integrações de sistemas. 
+              Com representantes em Fortaleza e Iguatu, oferecemos soluções tecnológicas inovadoras que impulsionam 
+              o crescimento e a eficiência dos nossos clientes em todo o Ceará e Brasil.
             </p>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Nossa missão é entregar excelência em cada projeto, utilizando as melhores práticas do mercado 
-              e tecnologias de ponta para criar sistemas robustos, escaláveis e de fácil manutenção.
+              Nossa missão é democratizar o acesso à tecnologia de qualidade, entregando excelência em cada projeto 
+              com as melhores práticas do mercado e tecnologias de ponta para criar sistemas robustos, escaláveis e de fácil manutenção.
             </p>
             <div className="space-y-4">
               <div className="flex items-start">
@@ -71,8 +71,9 @@ const About = () => {
             <div className="mt-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-2xl p-8 text-white shadow-xl">
               <h3 className="text-2xl font-bold mb-4">Nossa Visão</h3>
               <p className="leading-relaxed">
-                Ser referência nacional em soluções tecnológicas, reconhecida pela qualidade, 
-                inovação e compromisso com o sucesso dos nossos clientes.
+                Ser referência em soluções tecnológicas no Ceará e no Brasil, reconhecida pela qualidade, 
+                inovação e compromisso com o sucesso dos nossos clientes, impulsionando a transformação digital 
+                das empresas brasileiras.
               </p>
             </div>
           </div>

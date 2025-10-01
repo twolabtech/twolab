@@ -17,8 +17,8 @@ const Hero = () => {
               </span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8 leading-relaxed">
-              Desenvolvemos sistemas personalizados, automações inteligentes e integrações robustas 
-              para impulsionar o seu negócio no mundo digital.
+              Startup cearense desenvolvendo sistemas personalizados, automações inteligentes e integrações robustas 
+              para impulsionar o seu negócio no mundo digital. Presentes em Fortaleza e Iguatu.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a

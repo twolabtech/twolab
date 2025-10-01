@@ -44,8 +44,9 @@ const Footer = () => {
               <span className="text-2xl font-bold text-white">TwoLab</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
-              Transformando ideias em soluções tecnológicas inovadoras. 
+              Startup cearense transformando ideias em soluções tecnológicas inovadoras. 
               Desenvolvimento de sistemas, automações e integrações de alta qualidade.
+              Presente em Fortaleza e Iguatu - CE.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social, index) => (

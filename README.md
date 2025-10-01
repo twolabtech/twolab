@@ -105,10 +105,15 @@ Este projeto é propriedade da TwoLab.
 
 ## 👥 Contato
 
-- **Email**: contato@twolab.com.br
-- **Telefone**: +55 (11) 9999-9999
-- **Endereço**: São Paulo, SP - Brasil
+- **Email**: twolabcontato@gmail.com
+- **Telefone/WhatsApp**: (85) 99630-2558
+- **Localização**: Fortaleza e Iguatu - CE, Brasil
+
+## 📍 Sobre a TwoLab
+
+Startup cearense focada em desenvolvimento de software, automações e integrações de sistemas. 
+Com representantes em Fortaleza e Iguatu, atendemos clientes em todo o Brasil.
 
 ---
 
-Desenvolvido com ❤️ pela equipe TwoLab
+Desenvolvido com ❤️ pela equipe TwoLab | Ceará, Brasil
