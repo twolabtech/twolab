@@ -2,10 +2,10 @@ import { FiAward, FiUsers, FiTrendingUp, FiHeart } from 'react-icons/fi'
 
 const About = () => {
   const stats = [
-    { icon: <FiAward size={32} />, number: '150+', label: 'Projetos Entregues' },
-    { icon: <FiUsers size={32} />, number: '80+', label: 'Clientes Satisfeitos' },
-    { icon: <FiTrendingUp size={32} />, number: '95%', label: 'Taxa de Satisfação' },
-    { icon: <FiHeart size={32} />, number: '10+', label: 'Anos de Experiência' },
+    { icon: <FiAward size={32} />, number: '100%', label: 'Comprometimento' },
+    { icon: <FiUsers size={32} />, number: '2', label: 'Cidades no Ceará' },
+    { icon: <FiTrendingUp size={32} />, number: '24/7', label: 'Suporte Dedicado' },
+    { icon: <FiHeart size={32} />, number: '∞', label: 'Inovação Contínua' },
   ]
 
   return (
@@ -24,13 +24,14 @@ const About = () => {
               </span>
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Somos uma startup cearense especializada em desenvolvimento de software, automações e integrações de sistemas. 
-              Com representantes em Fortaleza e Iguatu, oferecemos soluções tecnológicas inovadoras que impulsionam 
+              Somos uma startup cearense recém-lançada, especializada em desenvolvimento de software, automações e integrações de sistemas. 
+              Com representantes em Fortaleza e Iguatu, estamos prontos para oferecer soluções tecnológicas inovadoras que impulsionam 
               o crescimento e a eficiência dos nossos clientes em todo o Ceará e Brasil.
             </p>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Nossa missão é democratizar o acesso à tecnologia de qualidade, entregando excelência em cada projeto 
-              com as melhores práticas do mercado e tecnologias de ponta para criar sistemas robustos, escaláveis e de fácil manutenção.
+              Nossa missão é democratizar o acesso à tecnologia de qualidade. Mesmo sendo uma startup nova, trazemos 
+              experiência técnica e comprometimento para entregar excelência em cada projeto, utilizando as melhores práticas 
+              do mercado e tecnologias de ponta para criar sistemas robustos, escaláveis e de fácil manutenção.
             </p>
             <div className="space-y-4">
               <div className="flex items-start">

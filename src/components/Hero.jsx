@@ -8,7 +8,7 @@ const Hero = () => {
           {/* Text Content */}
           <div className="md:w-1/2 mb-10 md:mb-0">
             <div className="inline-block mb-4 px-4 py-2 bg-blue-100 rounded-full">
-              <span className="text-blue-600 font-semibold text-sm">Tecnologia que transforma</span>
+              <span className="text-blue-600 font-semibold text-sm">🚀 Startup Cearense | Prontos para inovar</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Soluções Inovadoras em{' '}
@@ -32,7 +32,7 @@ const Hero = () => {
                 href="#contact"
                 className="inline-flex items-center justify-center border-2 border-blue-600 text-blue-600 px-8 py-4 rounded-full font-semibold hover:bg-blue-600 hover:text-white transition-all duration-300"
               >
-                Fale com um especialista
+                Seja nosso primeiro cliente
               </a>
             </div>
           </div>

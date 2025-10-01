@@ -56,7 +56,8 @@ const Contact = () => {
             Vamos Conversar Sobre Seu Projeto?
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Estamos prontos para transformar suas ideias em realidade. Entre em contato e solicite um orçamento.
+            Somos uma startup nova e estamos em busca dos nossos primeiros clientes! 
+            Entre em contato e ganhe condições especiais de lançamento. 🚀
           </p>
         </div>
 
